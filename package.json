@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "@types/chai": "^4.2.21",
-    "@types/node": "^16.4.13",
+    "@types/node": "^18.11.18",
     "chai": "^4.3.4",
     "print-diff": "^1.0.0",
     "ts-loader": "^9.2.5",
